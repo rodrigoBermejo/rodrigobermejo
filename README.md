@@ -58,10 +58,11 @@ Soy **Rodrigo Bermejo** — CTO en [Inadaptados](https://inadaptados.mx), fundad
 | Project | Description |
 |---|---|
 | 🤖 [**Influencer AI Platform**](https://github.com/rodrigoBermejo/influencer-ai-platform) | AI-powered virtual influencer platform with content automation |
-| 🎭 [**Camila Torres**](https://github.com/rodrigoBermejo/camila-torres-project) | Virtual AI influencer — running & fitness content automation |
 | 🎓 [**Diplomado IA & Automatización**](https://github.com/rodrigoBermejo/diplomado-ia-automatizacion) | AI & Automation professional course curriculum |
 | 🤖 [**Nova Assistant**](https://github.com/rodrigoBermejo/nova-assistant) | AI-powered assistant built from scratch |
 | 🛒 [**POS Terracota**](https://github.com/rodrigoBermejo/POS-Terracota) | Full point-of-sale system built with TypeScript |
+| 🛍️ [**eCommerce React**](https://github.com/rodrigoBermejo/ecommerce-react) | E-commerce platform built with React |
+| 🛍️ [**eCommerce Angular**](https://github.com/rodrigoBermejo/ecommerce-angular) | E-commerce platform built with Angular |
 
 ---
 
